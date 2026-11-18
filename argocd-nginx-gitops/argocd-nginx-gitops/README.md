@@ -1,4 +1,4 @@
-# Simple GitOps Deployment with Argo CD
+# GitOps Deployment with Argo CD
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?logo=argo)
